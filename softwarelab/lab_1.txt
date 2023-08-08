@@ -1,1 +1,7 @@
-An atm has an admin who manages the system maintenance. The maintenance include system reporting and system shutdown. When customers will login to system. The bank customers will login into the system and will do transactions of withdrawal, check balance, deposit, print receipt which is governed by the bank but if customers login with wrong pin, bad pin message will be prompt. Draw the use case diagram of the above scenario.
+An atm has an admin who manages the system maintenance. 
+The maintenance include system reporting and system shutdown. 
+When customers will login to system. The bank customers will 
+login into the system and will do transactions of withdrawal, 
+check balance, deposit, print receipt which is governed by the 
+bank but if customers login with wrong pin, bad pin message will be prompt. 
+Draw the use case diagram of the above scenario.
