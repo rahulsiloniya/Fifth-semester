@@ -1,7 +1,14 @@
-An atm has an admin who manages the system maintenance. 
+1. An atm has an admin who manages the system maintenance. 
 The maintenance include system reporting and system shutdown. 
 When customers will login to system. The bank customers will 
 login into the system and will do transactions of withdrawal, 
 check balance, deposit, print receipt which is governed by the 
 bank but if customers login with wrong pin, bad pin message will be prompt. 
 Draw the use case diagram of the above scenario.
+
+
+2. A restaurant offers a great meal for their customers. Customer enters in the restaurant.
+The waiter will give menu to the customer. Customer then places the order and the waiter
+will take the order to the chef to prepare the food. Once the fodd is ready watier will serve the food 
+to the customer after finishing the food customer will pay the bill to the cahier.
+Draw the use case diagram for this.
