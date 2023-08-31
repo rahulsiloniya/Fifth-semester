@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 
+
 echo -e "File name\t\tFile type"
 
 for path in *; do
